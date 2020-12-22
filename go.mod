@@ -1,3 +1,1 @@
-module github.com/Khanabeev/testmodule
-
-go 1.15
+module github.com/Khanabeev/testmodule/v2
